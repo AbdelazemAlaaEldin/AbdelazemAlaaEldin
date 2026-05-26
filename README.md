@@ -41,6 +41,13 @@
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-FFB347?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireframing-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prototyping-EA4C89?style=for-the-badge" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
